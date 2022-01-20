@@ -1,0 +1,8 @@
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\33-Excel操作\bin\Debug\装备信息.xls
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\33-Excel操作\bin\Debug\33-Excel操作.exe.config
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\33-Excel操作\bin\Debug\33-Excel操作.exe
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\33-Excel操作\bin\Debug\33-Excel操作.pdb
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\33-Excel操作\obj\Debug\33-Excel操作.csproj.CoreCompileInputs.cache
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\33-Excel操作\obj\Debug\33-Excel操作.exe
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\33-Excel操作\obj\Debug\33-Excel操作.pdb
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\33-Excel操作\obj\Debug\33-Excel操作.csprojAssemblyReference.cache

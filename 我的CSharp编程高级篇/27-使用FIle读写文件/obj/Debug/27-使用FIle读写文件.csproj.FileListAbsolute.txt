@@ -1,0 +1,8 @@
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\27-使用FIle读写文件\bin\Debug\TextFile1.txt
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\27-使用FIle读写文件\bin\Debug\27-使用FIle读写文件.exe.config
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\27-使用FIle读写文件\bin\Debug\27-使用FIle读写文件.exe
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\27-使用FIle读写文件\bin\Debug\27-使用FIle读写文件.pdb
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\27-使用FIle读写文件\obj\Debug\27-使用FIle读写文件.csproj.CoreCompileInputs.cache
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\27-使用FIle读写文件\obj\Debug\27-使用FIle读写文件.exe
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\27-使用FIle读写文件\obj\Debug\27-使用FIle读写文件.pdb
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\27-使用FIle读写文件\bin\Debug\3.LINQ.png

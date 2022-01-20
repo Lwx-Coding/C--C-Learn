@@ -1,0 +1,7 @@
+D:\迅雷下载\Unity入门\练习\我的C.Sharp中级编程\我的C.Sharp中级编程\bin\Debug\我的C.Sharp中级编程.exe.config
+D:\迅雷下载\Unity入门\练习\我的C.Sharp中级编程\我的C.Sharp中级编程\bin\Debug\我的C.Sharp中级编程.exe
+D:\迅雷下载\Unity入门\练习\我的C.Sharp中级编程\我的C.Sharp中级编程\bin\Debug\我的C.Sharp中级编程.pdb
+D:\迅雷下载\Unity入门\练习\我的C.Sharp中级编程\我的C.Sharp中级编程\obj\Debug\005-面向对象编程-类.csprojAssemblyReference.cache
+D:\迅雷下载\Unity入门\练习\我的C.Sharp中级编程\我的C.Sharp中级编程\obj\Debug\005-面向对象编程-类.csproj.CoreCompileInputs.cache
+D:\迅雷下载\Unity入门\练习\我的C.Sharp中级编程\我的C.Sharp中级编程\obj\Debug\我的C.Sharp中级编程.exe
+D:\迅雷下载\Unity入门\练习\我的C.Sharp中级编程\我的C.Sharp中级编程\obj\Debug\我的C.Sharp中级编程.pdb

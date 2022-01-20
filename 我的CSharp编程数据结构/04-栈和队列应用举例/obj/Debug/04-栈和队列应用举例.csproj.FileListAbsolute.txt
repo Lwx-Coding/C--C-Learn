@@ -1,0 +1,6 @@
+D:\迅雷下载\Unity入门\我的CSharp编程数据结构\04-栈和队列应用举例\bin\Debug\04-栈和队列应用举例.exe.config
+D:\迅雷下载\Unity入门\我的CSharp编程数据结构\04-栈和队列应用举例\bin\Debug\04-栈和队列应用举例.exe
+D:\迅雷下载\Unity入门\我的CSharp编程数据结构\04-栈和队列应用举例\bin\Debug\04-栈和队列应用举例.pdb
+D:\迅雷下载\Unity入门\我的CSharp编程数据结构\04-栈和队列应用举例\obj\Debug\04-栈和队列应用举例.csproj.CoreCompileInputs.cache
+D:\迅雷下载\Unity入门\我的CSharp编程数据结构\04-栈和队列应用举例\obj\Debug\04-栈和队列应用举例.exe
+D:\迅雷下载\Unity入门\我的CSharp编程数据结构\04-栈和队列应用举例\obj\Debug\04-栈和队列应用举例.pdb

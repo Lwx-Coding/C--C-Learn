@@ -1,0 +1,8 @@
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\31-xml文档解析-技能信息\bin\Debug\xml技能信息.txt
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\31-xml文档解析-技能信息\bin\Debug\31-xml文档解析-技能信息.exe.config
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\31-xml文档解析-技能信息\bin\Debug\31-xml文档解析-技能信息.exe
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\31-xml文档解析-技能信息\bin\Debug\31-xml文档解析-技能信息.pdb
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\31-xml文档解析-技能信息\obj\Debug\31-xml文档解析-技能信息.csprojAssemblyReference.cache
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\31-xml文档解析-技能信息\obj\Debug\31-xml文档解析-技能信息.csproj.CoreCompileInputs.cache
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\31-xml文档解析-技能信息\obj\Debug\31-xml文档解析-技能信息.exe
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\31-xml文档解析-技能信息\obj\Debug\31-xml文档解析-技能信息.pdb

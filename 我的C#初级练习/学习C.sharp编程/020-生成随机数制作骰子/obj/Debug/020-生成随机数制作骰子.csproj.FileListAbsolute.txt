@@ -1,0 +1,6 @@
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\020-生成随机数制作骰子\bin\Debug\020-生成随机数制作骰子.exe.config
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\020-生成随机数制作骰子\bin\Debug\020-生成随机数制作骰子.exe
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\020-生成随机数制作骰子\bin\Debug\020-生成随机数制作骰子.pdb
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\020-生成随机数制作骰子\obj\Debug\020-生成随机数制作骰子.csprojAssemblyReference.cache
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\020-生成随机数制作骰子\obj\Debug\020-生成随机数制作骰子.exe
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\020-生成随机数制作骰子\obj\Debug\020-生成随机数制作骰子.pdb

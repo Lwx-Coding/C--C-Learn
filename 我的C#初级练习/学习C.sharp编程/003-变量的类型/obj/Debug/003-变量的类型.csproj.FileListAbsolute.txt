@@ -1,0 +1,6 @@
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\003-变量的类型\bin\Debug\003-变量的类型.exe.config
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\003-变量的类型\bin\Debug\003-变量的类型.exe
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\003-变量的类型\bin\Debug\003-变量的类型.pdb
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\003-变量的类型\obj\Debug\003-变量的类型.csprojAssemblyReference.cache
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\003-变量的类型\obj\Debug\003-变量的类型.exe
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\003-变量的类型\obj\Debug\003-变量的类型.pdb

@@ -1,0 +1,7 @@
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\24-tcplistener\bin\Debug\24-tcplistener.exe.config
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\24-tcplistener\bin\Debug\24-tcplistener.exe
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\24-tcplistener\bin\Debug\24-tcplistener.pdb
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\24-tcplistener\obj\Debug\24-tcplistener.csprojAssemblyReference.cache
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\24-tcplistener\obj\Debug\24-tcplistener.csproj.CoreCompileInputs.cache
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\24-tcplistener\obj\Debug\24-tcplistener.exe
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\24-tcplistener\obj\Debug\24-tcplistener.pdb

@@ -1,0 +1,5 @@
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\039-数组\bin\Debug\039-数组.exe.config
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\039-数组\bin\Debug\039-数组.exe
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\039-数组\bin\Debug\039-数组.pdb
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\039-数组\obj\Debug\039-数组.exe
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\039-数组\obj\Debug\039-数组.pdb

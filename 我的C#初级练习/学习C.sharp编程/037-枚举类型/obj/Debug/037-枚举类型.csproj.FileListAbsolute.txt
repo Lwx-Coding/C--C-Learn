@@ -1,0 +1,13 @@
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\037-枚举类型\bin\Debug\037-枚举类型.exe.config
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\037-枚举类型\bin\Debug\037-枚举类型.exe
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\037-枚举类型\bin\Debug\037-枚举类型.pdb
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\037-枚举类型\obj\Debug\037-枚举类型.exe
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\037-枚举类型\obj\Debug\037-枚举类型.pdb
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\037-枚举类型\obj\Debug\037-枚举类型.csprojAssemblyReference.cache
+D:\迅雷下载\Unity入门\我的C#练习\学习C.sharp编程\037-枚举类型\bin\Debug\037-枚举类型.exe.config
+D:\迅雷下载\Unity入门\我的C#练习\学习C.sharp编程\037-枚举类型\bin\Debug\037-枚举类型.exe
+D:\迅雷下载\Unity入门\我的C#练习\学习C.sharp编程\037-枚举类型\bin\Debug\037-枚举类型.pdb
+D:\迅雷下载\Unity入门\我的C#练习\学习C.sharp编程\037-枚举类型\obj\Debug\037-枚举类型.csprojAssemblyReference.cache
+D:\迅雷下载\Unity入门\我的C#练习\学习C.sharp编程\037-枚举类型\obj\Debug\037-枚举类型.csproj.CoreCompileInputs.cache
+D:\迅雷下载\Unity入门\我的C#练习\学习C.sharp编程\037-枚举类型\obj\Debug\037-枚举类型.exe
+D:\迅雷下载\Unity入门\我的C#练习\学习C.sharp编程\037-枚举类型\obj\Debug\037-枚举类型.pdb

@@ -1,0 +1,7 @@
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\22-聊天室-socket-tcp服务器端\bin\Debug\22-聊天室-socket-tcp服务器端.exe.config
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\22-聊天室-socket-tcp服务器端\bin\Debug\22-聊天室-socket-tcp服务器端.exe
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\22-聊天室-socket-tcp服务器端\bin\Debug\22-聊天室-socket-tcp服务器端.pdb
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\22-聊天室-socket-tcp服务器端\obj\Debug\22-聊天室-socket-tcp服务器端.csprojAssemblyReference.cache
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\22-聊天室-socket-tcp服务器端\obj\Debug\22-聊天室-socket-tcp服务器端.csproj.CoreCompileInputs.cache
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\22-聊天室-socket-tcp服务器端\obj\Debug\22-聊天室-socket-tcp服务器端.exe
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\22-聊天室-socket-tcp服务器端\obj\Debug\22-聊天室-socket-tcp服务器端.pdb

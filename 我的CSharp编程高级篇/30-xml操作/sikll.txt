@@ -1,0 +1,17 @@
+﻿<skills>
+	<skill>
+		<id>2</id>
+		<name lang="cn">肉蛋葱鸡</name>
+		<damage>11</damage>
+	</skill>
+	<skill>
+		<id>3</id>
+		<name lang="cn">番茄连招</name>
+		<damage>24</damage>
+	</skill>
+	<skill>
+		<id>4</id>
+		<name lang="en">everyone stand up</name>
+		<damage>2</damage>
+	</skill>
+</skills>

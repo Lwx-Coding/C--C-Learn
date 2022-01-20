@@ -1,0 +1,6 @@
+D:\迅雷下载\Unity入门\我的CSharp编程数据结构\06-直接插入排序\bin\Debug\06-直接插入排序.exe.config
+D:\迅雷下载\Unity入门\我的CSharp编程数据结构\06-直接插入排序\bin\Debug\06-直接插入排序.exe
+D:\迅雷下载\Unity入门\我的CSharp编程数据结构\06-直接插入排序\bin\Debug\06-直接插入排序.pdb
+D:\迅雷下载\Unity入门\我的CSharp编程数据结构\06-直接插入排序\obj\Debug\06-直接插入排序.csproj.CoreCompileInputs.cache
+D:\迅雷下载\Unity入门\我的CSharp编程数据结构\06-直接插入排序\obj\Debug\06-直接插入排序.exe
+D:\迅雷下载\Unity入门\我的CSharp编程数据结构\06-直接插入排序\obj\Debug\06-直接插入排序.pdb

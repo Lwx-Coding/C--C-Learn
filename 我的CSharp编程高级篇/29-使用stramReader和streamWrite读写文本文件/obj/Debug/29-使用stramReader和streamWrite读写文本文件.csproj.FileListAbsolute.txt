@@ -1,0 +1,8 @@
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\29-使用stramReader和streamWrite读写文本文件\bin\Debug\29-使用stramReader和streamWrite读写文本文件.exe.config
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\29-使用stramReader和streamWrite读写文本文件\bin\Debug\29-使用stramReader和streamWrite读写文本文件.exe
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\29-使用stramReader和streamWrite读写文本文件\bin\Debug\29-使用stramReader和streamWrite读写文本文件.pdb
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\29-使用stramReader和streamWrite读写文本文件\obj\Debug\29-使用stramReader和streamWrite读写文本文件.csprojAssemblyReference.cache
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\29-使用stramReader和streamWrite读写文本文件\obj\Debug\29-使用stramReader和streamWrite读写文本文件.csproj.CoreCompileInputs.cache
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\29-使用stramReader和streamWrite读写文本文件\obj\Debug\29-使用stramReader和streamWrite读写文本文件.exe
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\29-使用stramReader和streamWrite读写文本文件\obj\Debug\29-使用stramReader和streamWrite读写文本文件.pdb
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\29-使用stramReader和streamWrite读写文本文件\bin\Debug\TextFile1.txt

@@ -1,0 +1,10 @@
+﻿{
+   "Name":"花姑娘",
+   "Level":99,
+   "Age":18,
+   "Skilllist":[
+{"id":2,"name":"天下无双","damage":123},
+{"id":3,"name":"天下无贼","damage":13},
+{"id":4,"name":"倾国倾城","damage":1233}
+]
+}

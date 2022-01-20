@@ -1,0 +1,8 @@
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\30-xml操作\bin\Debug\sikll.txt
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\30-xml操作\bin\Debug\30-xml操作.exe.config
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\30-xml操作\bin\Debug\30-xml操作.exe
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\30-xml操作\bin\Debug\30-xml操作.pdb
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\30-xml操作\obj\Debug\30-xml操作.csprojAssemblyReference.cache
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\30-xml操作\obj\Debug\30-xml操作.csproj.CoreCompileInputs.cache
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\30-xml操作\obj\Debug\30-xml操作.exe
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\30-xml操作\obj\Debug\30-xml操作.pdb

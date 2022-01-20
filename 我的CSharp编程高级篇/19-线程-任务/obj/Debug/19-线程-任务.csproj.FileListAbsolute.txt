@@ -1,0 +1,12 @@
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\19-线程-任务\bin\Debug\19-线程-任务.exe.config
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\19-线程-任务\bin\Debug\19-线程-任务.exe
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\19-线程-任务\bin\Debug\19-线程-任务.pdb
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\19-线程-任务\obj\Debug\19-线程-任务.csproj.CoreCompileInputs.cache
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\19-线程-任务\obj\Debug\19-线程-任务.exe
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\19-线程-任务\obj\Debug\19-线程-任务.pdb
+C:\Users\yeqin\Desktop\lwx\C#学习\我的CSharp编程高级篇\19-线程-任务\bin\Debug\19-线程-任务.exe.config
+C:\Users\yeqin\Desktop\lwx\C#学习\我的CSharp编程高级篇\19-线程-任务\bin\Debug\19-线程-任务.exe
+C:\Users\yeqin\Desktop\lwx\C#学习\我的CSharp编程高级篇\19-线程-任务\bin\Debug\19-线程-任务.pdb
+C:\Users\yeqin\Desktop\lwx\C#学习\我的CSharp编程高级篇\19-线程-任务\obj\Debug\19-线程-任务.csproj.CoreCompileInputs.cache
+C:\Users\yeqin\Desktop\lwx\C#学习\我的CSharp编程高级篇\19-线程-任务\obj\Debug\19-线程-任务.exe
+C:\Users\yeqin\Desktop\lwx\C#学习\我的CSharp编程高级篇\19-线程-任务\obj\Debug\19-线程-任务.pdb

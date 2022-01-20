@@ -1,0 +1,7 @@
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\01-字符串string\bin\Debug\01-字符串string.exe.config
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\01-字符串string\bin\Debug\01-字符串string.exe
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\01-字符串string\bin\Debug\01-字符串string.pdb
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\01-字符串string\obj\Debug\01-字符串string.csprojAssemblyReference.cache
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\01-字符串string\obj\Debug\01-字符串string.csproj.CoreCompileInputs.cache
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\01-字符串string\obj\Debug\01-字符串string.exe
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\01-字符串string\obj\Debug\01-字符串string.pdb

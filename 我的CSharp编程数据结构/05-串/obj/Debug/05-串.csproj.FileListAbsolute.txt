@@ -1,0 +1,7 @@
+D:\迅雷下载\Unity入门\我的CSharp编程数据结构\05-串\bin\Debug\05-串.exe.config
+D:\迅雷下载\Unity入门\我的CSharp编程数据结构\05-串\bin\Debug\05-串.exe
+D:\迅雷下载\Unity入门\我的CSharp编程数据结构\05-串\bin\Debug\05-串.pdb
+D:\迅雷下载\Unity入门\我的CSharp编程数据结构\05-串\obj\Debug\05-串.csprojAssemblyReference.cache
+D:\迅雷下载\Unity入门\我的CSharp编程数据结构\05-串\obj\Debug\05-串.csproj.CoreCompileInputs.cache
+D:\迅雷下载\Unity入门\我的CSharp编程数据结构\05-串\obj\Debug\05-串.exe
+D:\迅雷下载\Unity入门\我的CSharp编程数据结构\05-串\obj\Debug\05-串.pdb

@@ -1,0 +1,7 @@
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\25-udpclient\bin\Debug\25-udpclient.exe.config
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\25-udpclient\bin\Debug\25-udpclient.exe
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\25-udpclient\bin\Debug\25-udpclient.pdb
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\25-udpclient\obj\Debug\25-udpclient.csprojAssemblyReference.cache
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\25-udpclient\obj\Debug\25-udpclient.csproj.CoreCompileInputs.cache
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\25-udpclient\obj\Debug\25-udpclient.exe
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\25-udpclient\obj\Debug\25-udpclient.pdb

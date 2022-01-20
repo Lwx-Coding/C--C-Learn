@@ -1,0 +1,13 @@
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\008-接收用户输入的字符串\bin\Debug\008-接收用户输入的字符串.exe.config
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\008-接收用户输入的字符串\bin\Debug\008-接收用户输入的字符串.exe
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\008-接收用户输入的字符串\bin\Debug\008-接收用户输入的字符串.pdb
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\008-接收用户输入的字符串\obj\Debug\008-接收用户输入的字符串.csprojAssemblyReference.cache
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\008-接收用户输入的字符串\obj\Debug\008-接收用户输入的字符串.exe
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\008-接收用户输入的字符串\obj\Debug\008-接收用户输入的字符串.pdb
+D:\迅雷下载\Unity入门\我的C#练习\学习C.sharp编程\008-接收用户输入的字符串\bin\Debug\008-接收用户输入的字符串.exe.config
+D:\迅雷下载\Unity入门\我的C#练习\学习C.sharp编程\008-接收用户输入的字符串\bin\Debug\008-接收用户输入的字符串.exe
+D:\迅雷下载\Unity入门\我的C#练习\学习C.sharp编程\008-接收用户输入的字符串\bin\Debug\008-接收用户输入的字符串.pdb
+D:\迅雷下载\Unity入门\我的C#练习\学习C.sharp编程\008-接收用户输入的字符串\obj\Debug\008-接收用户输入的字符串.csprojAssemblyReference.cache
+D:\迅雷下载\Unity入门\我的C#练习\学习C.sharp编程\008-接收用户输入的字符串\obj\Debug\008-接收用户输入的字符串.csproj.CoreCompileInputs.cache
+D:\迅雷下载\Unity入门\我的C#练习\学习C.sharp编程\008-接收用户输入的字符串\obj\Debug\008-接收用户输入的字符串.exe
+D:\迅雷下载\Unity入门\我的C#练习\学习C.sharp编程\008-接收用户输入的字符串\obj\Debug\008-接收用户输入的字符串.pdb

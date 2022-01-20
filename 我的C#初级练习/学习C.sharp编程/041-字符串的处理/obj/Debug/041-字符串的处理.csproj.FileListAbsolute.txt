@@ -1,0 +1,11 @@
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\041-字符串的处理\bin\Debug\041-字符串的处理.exe.config
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\041-字符串的处理\bin\Debug\041-字符串的处理.exe
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\041-字符串的处理\bin\Debug\041-字符串的处理.pdb
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\041-字符串的处理\obj\Debug\041-字符串的处理.exe
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\041-字符串的处理\obj\Debug\041-字符串的处理.pdb
+D:\迅雷下载\Unity入门\我的C#练习\学习C.sharp编程\041-字符串的处理\bin\Debug\041-字符串的处理.exe.config
+D:\迅雷下载\Unity入门\我的C#练习\学习C.sharp编程\041-字符串的处理\bin\Debug\041-字符串的处理.exe
+D:\迅雷下载\Unity入门\我的C#练习\学习C.sharp编程\041-字符串的处理\bin\Debug\041-字符串的处理.pdb
+D:\迅雷下载\Unity入门\我的C#练习\学习C.sharp编程\041-字符串的处理\obj\Debug\041-字符串的处理.csproj.CoreCompileInputs.cache
+D:\迅雷下载\Unity入门\我的C#练习\学习C.sharp编程\041-字符串的处理\obj\Debug\041-字符串的处理.exe
+D:\迅雷下载\Unity入门\我的C#练习\学习C.sharp编程\041-字符串的处理\obj\Debug\041-字符串的处理.pdb

@@ -1,0 +1,6 @@
+D:\迅雷下载\Unity入门\练习\我的C.Sharp中级编程\014-列表List的创建和使用\bin\Debug\014-列表List的创建和使用.exe.config
+D:\迅雷下载\Unity入门\练习\我的C.Sharp中级编程\014-列表List的创建和使用\bin\Debug\014-列表List的创建和使用.exe
+D:\迅雷下载\Unity入门\练习\我的C.Sharp中级编程\014-列表List的创建和使用\bin\Debug\014-列表List的创建和使用.pdb
+D:\迅雷下载\Unity入门\练习\我的C.Sharp中级编程\014-列表List的创建和使用\obj\Debug\014-列表List的创建和使用.csproj.CoreCompileInputs.cache
+D:\迅雷下载\Unity入门\练习\我的C.Sharp中级编程\014-列表List的创建和使用\obj\Debug\014-列表List的创建和使用.exe
+D:\迅雷下载\Unity入门\练习\我的C.Sharp中级编程\014-列表List的创建和使用\obj\Debug\014-列表List的创建和使用.pdb

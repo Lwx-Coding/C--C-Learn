@@ -1,0 +1,7 @@
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\02-字符串StringBuilder\bin\Debug\02-字符串StringBuilder.exe.config
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\02-字符串StringBuilder\bin\Debug\02-字符串StringBuilder.exe
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\02-字符串StringBuilder\bin\Debug\02-字符串StringBuilder.pdb
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\02-字符串StringBuilder\obj\Debug\02-字符串StringBuilder.csprojAssemblyReference.cache
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\02-字符串StringBuilder\obj\Debug\02-字符串StringBuilder.csproj.CoreCompileInputs.cache
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\02-字符串StringBuilder\obj\Debug\02-字符串StringBuilder.exe
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\02-字符串StringBuilder\obj\Debug\02-字符串StringBuilder.pdb

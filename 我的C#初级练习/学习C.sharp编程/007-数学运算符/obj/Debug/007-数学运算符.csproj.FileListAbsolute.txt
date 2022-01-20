@@ -1,0 +1,6 @@
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\007-数学运算符\bin\Debug\007-数学运算符.exe.config
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\007-数学运算符\bin\Debug\007-数学运算符.exe
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\007-数学运算符\bin\Debug\007-数学运算符.pdb
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\007-数学运算符\obj\Debug\007-数学运算符.csprojAssemblyReference.cache
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\007-数学运算符\obj\Debug\007-数学运算符.exe
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\007-数学运算符\obj\Debug\007-数学运算符.pdb

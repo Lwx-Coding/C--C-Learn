@@ -1,0 +1,13 @@
+C:\Users\yeqin\Desktop\lwx\C#\我的CSharp编程高级篇\力扣测试\bin\Debug\netcoreapp3.1\力扣测试.exe
+C:\Users\yeqin\Desktop\lwx\C#\我的CSharp编程高级篇\力扣测试\bin\Debug\netcoreapp3.1\力扣测试.deps.json
+C:\Users\yeqin\Desktop\lwx\C#\我的CSharp编程高级篇\力扣测试\bin\Debug\netcoreapp3.1\力扣测试.runtimeconfig.json
+C:\Users\yeqin\Desktop\lwx\C#\我的CSharp编程高级篇\力扣测试\bin\Debug\netcoreapp3.1\力扣测试.runtimeconfig.dev.json
+C:\Users\yeqin\Desktop\lwx\C#\我的CSharp编程高级篇\力扣测试\bin\Debug\netcoreapp3.1\力扣测试.dll
+C:\Users\yeqin\Desktop\lwx\C#\我的CSharp编程高级篇\力扣测试\bin\Debug\netcoreapp3.1\力扣测试.pdb
+C:\Users\yeqin\Desktop\lwx\C#\我的CSharp编程高级篇\力扣测试\obj\Debug\netcoreapp3.1\力扣测试.csprojAssemblyReference.cache
+C:\Users\yeqin\Desktop\lwx\C#\我的CSharp编程高级篇\力扣测试\obj\Debug\netcoreapp3.1\力扣测试.AssemblyInfoInputs.cache
+C:\Users\yeqin\Desktop\lwx\C#\我的CSharp编程高级篇\力扣测试\obj\Debug\netcoreapp3.1\力扣测试.AssemblyInfo.cs
+C:\Users\yeqin\Desktop\lwx\C#\我的CSharp编程高级篇\力扣测试\obj\Debug\netcoreapp3.1\力扣测试.csproj.CoreCompileInputs.cache
+C:\Users\yeqin\Desktop\lwx\C#\我的CSharp编程高级篇\力扣测试\obj\Debug\netcoreapp3.1\力扣测试.dll
+C:\Users\yeqin\Desktop\lwx\C#\我的CSharp编程高级篇\力扣测试\obj\Debug\netcoreapp3.1\力扣测试.pdb
+C:\Users\yeqin\Desktop\lwx\C#\我的CSharp编程高级篇\力扣测试\obj\Debug\netcoreapp3.1\力扣测试.genruntimeconfig.cache

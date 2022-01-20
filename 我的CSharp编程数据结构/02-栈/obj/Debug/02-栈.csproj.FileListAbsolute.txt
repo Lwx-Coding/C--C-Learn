@@ -1,0 +1,7 @@
+D:\迅雷下载\Unity入门\我的CSharp编程数据结构\02-栈\bin\Debug\02-栈.exe.config
+D:\迅雷下载\Unity入门\我的CSharp编程数据结构\02-栈\bin\Debug\02-栈.exe
+D:\迅雷下载\Unity入门\我的CSharp编程数据结构\02-栈\bin\Debug\02-栈.pdb
+D:\迅雷下载\Unity入门\我的CSharp编程数据结构\02-栈\obj\Debug\02-栈.csprojAssemblyReference.cache
+D:\迅雷下载\Unity入门\我的CSharp编程数据结构\02-栈\obj\Debug\02-栈.csproj.CoreCompileInputs.cache
+D:\迅雷下载\Unity入门\我的CSharp编程数据结构\02-栈\obj\Debug\02-栈.exe
+D:\迅雷下载\Unity入门\我的CSharp编程数据结构\02-栈\obj\Debug\02-栈.pdb

@@ -1,0 +1,5 @@
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\002-变量\bin\Debug\002-变量.exe.config
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\002-变量\bin\Debug\002-变量.exe
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\002-变量\bin\Debug\002-变量.pdb
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\002-变量\obj\Debug\002-变量.exe
+D:\迅雷下载\Unity入门\练习\学习C.sharp编程\002-变量\obj\Debug\002-变量.pdb

@@ -1,0 +1,8 @@
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\26-文件操作-查看文件和文件夹信息\bin\Debug\TextFile1.txt
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\26-文件操作-查看文件和文件夹信息\bin\Debug\26-文件操作-查看文件和文件夹信息.exe.config
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\26-文件操作-查看文件和文件夹信息\bin\Debug\26-文件操作-查看文件和文件夹信息.exe
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\26-文件操作-查看文件和文件夹信息\bin\Debug\26-文件操作-查看文件和文件夹信息.pdb
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\26-文件操作-查看文件和文件夹信息\obj\Debug\26-文件操作-查看文件和文件夹信息.csprojAssemblyReference.cache
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\26-文件操作-查看文件和文件夹信息\obj\Debug\26-文件操作-查看文件和文件夹信息.csproj.CoreCompileInputs.cache
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\26-文件操作-查看文件和文件夹信息\obj\Debug\26-文件操作-查看文件和文件夹信息.exe
+D:\迅雷下载\Unity入门\我的CSharp编程高级篇\26-文件操作-查看文件和文件夹信息\obj\Debug\26-文件操作-查看文件和文件夹信息.pdb
